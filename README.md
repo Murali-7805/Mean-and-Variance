@@ -1,5 +1,6 @@
 #  Mean and variance of a discrete  distribution
-
+Name:Murali krishna.S
+Register number:212223230129
 
 # Aim : 
 
@@ -48,9 +49,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
-#Developed by:   MURALI KRISHNA S
-#Register Number: 23012882
-import numpy as np
+```import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
 x=list();f=list()
@@ -72,10 +71,15 @@ SD=np.sqrt(var)
 print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
+```
+
 
 
 
 # Output : 
+![PQM EXP 1](https://github.com/Murali-7805/Mean-and-Variance/assets/151489752/ff5a5431-216d-4688-99ac-04803f9e5e41)
+
+
 
 
 # Results :
